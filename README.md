@@ -1,3 +1,3 @@
 # Contests
 
-## Programming Contests I had participated
+### Programming Contests I had participated
